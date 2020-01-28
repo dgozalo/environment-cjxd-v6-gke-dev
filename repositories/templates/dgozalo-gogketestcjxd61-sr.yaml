@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dgozalo
+    provider: github
+    repository: gogketestcjxd61
+  name: dgozalo-gogketestcjxd61
+spec:
+  description: Imported application for dgozalo/gogketestcjxd61
+  httpCloneURL: https://github.com/dgozalo/gogketestcjxd61.git
+  org: dgozalo
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: gogketestcjxd61
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dgozalo/gogketestcjxd61.git
