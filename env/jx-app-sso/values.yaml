@@ -1,0 +1,10 @@
+dex:
+  connectors:
+    github:
+      config:
+        clientID: vault:gitOps/dgozalo/environment-cjxd-v6-gke-dev/dex-connectors-github-config:clientID
+        clientSecret: vault:gitOps/dgozalo/environment-cjxd-v6-gke-dev/dex-connectors-github-config:clientSecret
+        name: GitHub
+        type: github
+  domain: dex-jx.gkecjxd6.dgozalo.jenkins-x.rocks
+enabledConnector: GitHub
