@@ -7,3 +7,4 @@ Dependency | Sources | Version | Mismatched versions
 [dgozalo/gkessotestcjxd612](https://github.com/dgozalo/gkessotestcjxd612.git) |  | []() | 
 [dgozalo/gotestssonew1](https://github.com/dgozalo/gotestssonew1.git) |  | []() | 
 [dgozalo/gotestnewbuildpack1](https://github.com/dgozalo/gotestnewbuildpack1.git) |  | []() | 
+[dgozalo/gotestnewbuildpack2](https://github.com/dgozalo/gotestnewbuildpack2.git) |  | []() | 
