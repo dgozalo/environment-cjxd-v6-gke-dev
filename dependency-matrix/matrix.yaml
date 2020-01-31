@@ -35,3 +35,9 @@ dependencies:
   url: https://github.com/dgozalo/gotestnewbuildpack2.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: dgozalo
+  repo: gotestnewbuildpack3
+  url: https://github.com/dgozalo/gotestnewbuildpack3.git
+  version: ""
+  versionURL: ""
