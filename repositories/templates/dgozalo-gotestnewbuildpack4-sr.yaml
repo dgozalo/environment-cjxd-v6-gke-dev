@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dgozalo
+    provider: github
+    repository: gotestnewbuildpack4
+  name: dgozalo-gotestnewbuildpack4
+spec:
+  description: Imported application for dgozalo/gotestnewbuildpack4
+  httpCloneURL: https://github.com/dgozalo/gotestnewbuildpack4.git
+  org: dgozalo
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: gotestnewbuildpack4
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dgozalo/gotestnewbuildpack4.git
